@@ -1,0 +1,7 @@
+header, footer {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+h1 { color: green; }
+nav { font-weight: bold; }
+main { font-family: Arial, Helvetica, sans-serif; }
